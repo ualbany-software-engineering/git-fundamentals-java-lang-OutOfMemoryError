@@ -1,1 +1,1 @@
-I am not a bot.
+I am a bot.
